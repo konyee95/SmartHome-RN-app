@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "137630638142",
+    "firebase_url": "https://deepeye-200003.firebaseio.com",
+    "project_id": "deepeye-200003",
+    "storage_bucket": "deepeye-200003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137630638142:android:8f6270260e89f0e8",
+        "android_client_info": {
+          "package_name": "com.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137630638142-26q2c330ck4nvddgob6l22tlduo9llqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ghxMiu16PtW2PgvNC8sGI6TKwdbf4m4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
